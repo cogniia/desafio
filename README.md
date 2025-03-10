@@ -26,7 +26,7 @@ Alguns requisitos foram definidos para a API:
 2. Você precisará usar GORM para fazer as operações no banco de dados;
 3. Você usará Postgres como banco de dados.
 
-Como o líder técnico é macaco velho e já realizou a tarefa de construir um backend com esse propósito incontáveis vezes, ele já havia montado o repositório [core-api-template](github.com/cogniia/core-api-template) onde você encontrará um template para a API que lhe ajudará muito. Você deverá fazer um fork desse repositório e implementar a API.
+Como o líder técnico é macaco velho e já realizou a tarefa de construir um backend com esse propósito incontáveis vezes, ele já havia montado o repositório [core-api-template](https://github.com/cogniia/core-api-template) onde você encontrará um template para a API que lhe ajudará muito. Você deverá fazer um fork desse repositório e implementar a API.
 
 ### 3. Agent API
 
